@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Seif Maghraby  
 
-💡 *AI Engineer | Generative AI Specialist | Agentic AI Builder*  
-🌍 Open to Relocation
+💡 *AI Engineer | Generative AI Specialist | Computer Vision Engineer*  
+🌍 *Open to Relocation*    
 ✉️ seifmaghraby20@gmail.com | 📱 +20 101 039 7215  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seif-maghraby/) 
