@@ -37,7 +37,7 @@ Proven track record in building **production-grade AI systems** that optimize wo
 
 ---
 
-## 🚀 Projects (Selected)
+## 🚀 Projects
 - **Generative Book Platform** – End-to-end pipeline turning user ideas into fully illustrated novels.  
 - **AI Interior Design Assistant** – Boosted designer productivity with AI-powered design suggestions and visual search.  
 - **Compliance Agent** – RAG + agentic workflow for verifying architectural layouts against building codes.  
